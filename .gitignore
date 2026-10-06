@@ -198,3 +198,5 @@ uv.lock
 
 # AI docs
 CLAUDE.md
+
+/sk-experiments/.assistant_envs.env

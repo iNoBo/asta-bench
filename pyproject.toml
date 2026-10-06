@@ -28,7 +28,8 @@ dependencies = [
     "scipy",
     "anthropic>=0.52.0",
     "platformdirs",
-    "numpy"
+    "numpy",
+    "qdrant-client>=1.19.0",
 ]
 
 [project.optional-dependencies]
